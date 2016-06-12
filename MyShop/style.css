@@ -46,7 +46,7 @@ body {
 	margin: 0 auto;
 	padding: 0;
 	max-width: 998px;
-	background: #FBC5DD;
+	background: #DCDCE4;
 	background-image: url(images/ava7patterns_pattern_1765.png);	
 }
 
@@ -289,29 +289,13 @@ a {
 	.header h1 {
 		font-size: 40px;
 	}
-	.header h3 {
-		font-size: 14px;	
-	}
-	.nav {
-		height: 38px;	
-	}
-	.nav li {		
-		font-size: 15px;	
-}
+	
+}	
 
 @media screen and (max-width: 568px)
 {
 	.header h1 {
-		font-size: 38px;
-	}
-	.header h3 {
-		font-size: 14px;	
-	}
-	.nav {
-		height: 38px;	
-	}
-	.nav li {		
-		font-size: 15px;	
+		font-size: 36px;
 	}
 }
 
@@ -319,17 +303,12 @@ a {
 {
 	
 	.header h1 {
-		font-size: 38px;
+		font-size: 34px;
 	}
 	.header h3 {
 		font-size: 14px;	
 	}
-	.nav {
-		height: 38px;	
-	}
-	.nav li {		
-		font-size: 15px;	
-	}
+
 }
 
 @media screen and (max-width: 414px)
@@ -340,12 +319,6 @@ a {
 	}
 	.header h3 {
 		font-size: 13px;	
-	}
-	.nav {
-		height: 38px;	
-	}
-	.nav li {		
-		font-size: 15px;	
 	}
 }
 
@@ -375,12 +348,6 @@ a {
 	.header h3 {
 		font-size: 13px;	
 	}
-	.nav {
-		height: 35px;	
-	}
-	.nav li {		
-		font-size: 14px;	
-	}
 }
 
 
@@ -391,12 +358,6 @@ a {
 	}
 	.header h3 {
 		font-size: 12px;	
-	}
-	.nav {
-		height: 35px;	
-	}
-	.nav li {		
-		font-size: 14px;	
 	}
 }
 
